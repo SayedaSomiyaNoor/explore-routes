@@ -1,0 +1,11 @@
+.friend{
+    background-color:darkslategray;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.userName{
+    text-decoration: none;
+    color:lightseagreen;
+}
